@@ -1,0 +1,13 @@
+# Arquivos de saída
+catplot.png
+heatmap.png
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Dados sensíveis ou grandes
+medical_examination.csv
